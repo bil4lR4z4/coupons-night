@@ -1,0 +1,125 @@
+body {
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url("{{ asset('webfonts/inter.ttf') }}") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.inter {
+    font-family: 'Inter', sans-serif;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url("{{ asset('webfonts/PlusJakartaSans.ttf') }}") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.plusJakartaSans {
+    font-family: 'PlusJakartaSans', sans-serif;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url("{{ asset('webfonts/Poppins-Bold.ttf') }}") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.offer-number {
+    color: #000000;
+}
+
+.badge {
+    font-size: 13px;
+}
+
+.verify-badge-green span {
+    font-size: 12px;
+}
+
+.products ul li a {
+    font-size: 14px;
+}
+
+.promo-value {
+    color: #000000;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.promo-outline-btn {
+    color: #000000;
+    border: 1px solid #000000;
+    background-color: #fff;
+    font-size: 14px;
+    min-width: 150px;
+    border-radius: 10px;
+}
+
+.promo-outline-btn:hover {
+    color: #2C2F30;
+    background-color: #E0E3E4;
+    border: none;
+    outline: none;
+}
+
+.custom-faq .accordion-item {
+    background-color: #fff;
+}
+
+.custom-faq .accordion-button {
+    background-color: #fff;
+    color: #2f2f2f;
+    box-shadow: none;
+    font-size: 16px;
+}
+
+.custom-faq .accordion-button:not(.collapsed) {
+    background-color: #fff;
+    color: black !important;
+    box-shadow: none;
+}
+
+
+.custom-faq .accordion-button:not(.collapsed)::after {
+    transform: rotate(180deg) scale(.9);
+    /* filter: brightness(0) saturate(100%) invert(23%) sepia(93%) saturate(3097%) hue-rotate(267deg) brightness(86%) contrast(150%); */
+
+}
+
+.active-faq {
+    border: 1px solid #eadbfd !important;
+}
+
+.feature-btn {
+    /* background: linear-gradient(90deg, #8b5cf6, #ec4899); */
+    border: none;
+    font-size: 14px;
+}
+
+
+
+.article-tag {
+    /* color: #8b5cf6; */
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+/* .article-link {
+    color: #8b5cf6;
+}
+
+.article-link:hover {
+    color: #8b5cf6;
+} */

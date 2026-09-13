@@ -1,0 +1,85 @@
+body {
+    font-family: 'Source Sans 3', sans-serif;
+    /* background: red; */
+}
+
+.app-content {
+    min-height: calc(100vh - 120px);
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+
+/* alert */
+.admin-toast-alert {
+    opacity: 0;
+    transform: translateY(-20px);
+    animation: fadeInToast 0.5s ease forwards;
+    border-radius: 10px;
+}
+
+.admin-toast-alert.fade-out {
+    animation: fadeOutToast 0.5s ease forwards;
+}
+
+@keyframes fadeInToast {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeOutToast {
+    from {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    to {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+}
+
+
+/* datatable */
+.dataTables_wrapper .dataTables_filter {
+    margin-bottom: 15px;
+}
+
+.dataTables_wrapper .dataTables_length {
+    margin-bottom: 15px;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 8px;
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    padding: 6px 10px;
+}
+
+.dataTables_wrapper .dataTables_length select {
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    padding: 4px 8px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 4px 10px !important;
+    margin: 0 2px;
+    border-radius: 6px !important;
+}

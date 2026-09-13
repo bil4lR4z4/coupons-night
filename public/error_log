@@ -1,0 +1,10 @@
+[27-Apr-2026 17:59:18 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\CategoryController as CategoryController because the name is already in use in /home/coupgfjv/public_html/routes/web.php on line 29
+[27-Apr-2026 17:59:21 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\CategoryController as CategoryController because the name is already in use in /home/coupgfjv/public_html/routes/web.php on line 29
+[28-Apr-2026 14:33:56 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Frontend\StoresController, because the name is already in use in /home/coupgfjv/public_html/app/Http/Controllers/StoresController.php on line 8
+[28-Apr-2026 14:34:09 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Frontend\StoresController, because the name is already in use in /home/coupgfjv/public_html/app/Http/Controllers/StoresController.php on line 8
+[28-Apr-2026 14:34:13 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Frontend\StoresController, because the name is already in use in /home/coupgfjv/public_html/app/Http/Controllers/StoresController.php on line 8
+[02-May-2026 16:02:33 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Frontend\SubmitOfferController, because the name is already in use in /home/coupgfjv/public_html/app/Http/Controllers/SubmitOfferController.php on line 12
+[20-May-2026 07:48:24 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/coupgfjv/public_html/app/Http/Controllers/Admin/ProductController.php on line 17
+[23-May-2026 18:23:18 UTC] PHP Fatal error:  Cannot redeclare App\Models\Admin\Category::booted() in /home/coupgfjv/public_html/app/Models/Admin/Category.php on line 147
+[23-May-2026 18:23:44 UTC] PHP Fatal error:  Cannot redeclare App\Models\Admin\Category::booted() in /home/coupgfjv/public_html/app/Models/Admin/Category.php on line 100
+[23-May-2026 18:24:11 UTC] PHP Fatal error:  Cannot redeclare App\Models\Admin\Category::booted() in /home/coupgfjv/public_html/app/Models/Admin/Category.php on line 100

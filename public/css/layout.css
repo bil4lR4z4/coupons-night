@@ -1,0 +1,52 @@
+.fs-30{
+    font-family: 'Plus Jakarta' !important;
+    font-size: 30px;
+    font-weight: 700;
+}
+.fs-18{
+    /* font-family: Poppins !important; */
+    font-size: 18px;
+    color:#5B403E;
+}
+.fs-10{
+    font-family: 'Plus Jakarta' !important;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* .verify-badge{
+    font-size: 10px;
+    background: #049BFB21;
+    border: 1px solid #049BFB;
+    border-radius: 4px;
+    border-top-left-radius: 0px;
+    padding : 2px 8px;
+    color: white;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+} */
+/* .verify-badge span{
+    background: linear-gradient(to top, #3447C0, #049BFB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
+
+.custom-swiper::after{
+    
+    font-size:8px !important;
+    color: black;
+    font-weight: 600px;
+}
+.custom-swiper{
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50%;
+    border: 1px solid #E8E8E8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:0px !important;
+}

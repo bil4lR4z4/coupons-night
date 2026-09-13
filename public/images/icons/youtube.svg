@@ -1,0 +1,29 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 13.75C0 6.15609 6.15609 0 13.75 0C21.3439 0 27.5 6.15609 27.5 13.75C27.5 21.3439 21.3439 27.5 13.75 27.5C6.15609 27.5 0 21.3439 0 13.75Z" fill="url(#paint0_linear_99_2478)"/>
+<g clip-path="url(#clip0_99_2478)">
+<path d="M20.9966 9.91375C20.915 9.58747 20.7487 9.28852 20.5145 9.04709C20.2803 8.80567 19.9865 8.63031 19.6629 8.53875C18.4804 8.25 13.7504 8.25 13.7504 8.25C13.7504 8.25 9.02039 8.25 7.83789 8.56625C7.51425 8.65781 7.2205 8.83317 6.98632 9.07459C6.75214 9.31602 6.58581 9.61497 6.50414 9.94125C6.28773 11.1413 6.18187 12.3587 6.18789 13.5781C6.18018 14.8067 6.28605 16.0334 6.50414 17.2425C6.59418 17.5586 6.76423 17.8462 6.99787 18.0775C7.23151 18.3087 7.52083 18.4757 7.83789 18.5625C9.02039 18.8788 13.7504 18.8787 13.7504 18.8787C13.7504 18.8787 18.4804 18.8788 19.6629 18.5625C19.9865 18.4709 20.2803 18.2956 20.5145 18.0542C20.7487 17.8127 20.915 17.5138 20.9966 17.1875C21.2114 15.9965 21.3172 14.7884 21.3129 13.5781C21.3206 12.3495 21.2147 11.1229 20.9966 9.91375Z" stroke="white" stroke-width="1.03125" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.2035 15.8263L16.1566 13.5781L12.2035 11.33V15.8263Z" stroke="white" stroke-width="1.03125" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_99_2478" x1="0" y1="13.75" x2="27.5" y2="13.75" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8B5CF6"/>
+<stop offset="0.0714286" stop-color="#925DF0"/>
+<stop offset="0.142857" stop-color="#995DE9"/>
+<stop offset="0.214286" stop-color="#A05DE3"/>
+<stop offset="0.285714" stop-color="#A75DDC"/>
+<stop offset="0.357143" stop-color="#AE5DD6"/>
+<stop offset="0.428571" stop-color="#B55CCF"/>
+<stop offset="0.5" stop-color="#BC5BC9"/>
+<stop offset="0.571429" stop-color="#C35AC2"/>
+<stop offset="0.642857" stop-color="#CA58BC"/>
+<stop offset="0.714286" stop-color="#D156B5"/>
+<stop offset="0.785714" stop-color="#D853AE"/>
+<stop offset="0.857143" stop-color="#DE50A7"/>
+<stop offset="0.928571" stop-color="#E54CA0"/>
+<stop offset="1" stop-color="#EC4899"/>
+</linearGradient>
+<clipPath id="clip0_99_2478">
+<rect width="16.5" height="16.5" fill="white" transform="translate(5.5 5.5)"/>
+</clipPath>
+</defs>
+</svg>
