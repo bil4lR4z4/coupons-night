@@ -351,18 +351,6 @@ coupons-night/
 └── vite.config.js
 ```
 
----
-
-## 🧪 Testing
-
-Laravel's built-in testing framework can be used to run the application's tests:
-
-```bash
-php artisan test
-```
-
----
-
 ## 🔒 Security
 
 For security reasons, environment-specific configuration should not be committed to the repository.
